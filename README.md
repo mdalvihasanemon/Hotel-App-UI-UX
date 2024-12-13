@@ -1,4 +1,3 @@
-Here’s an advanced and professional README file for your **Hotel-App-UI-UX** project:
 
 ---
 
